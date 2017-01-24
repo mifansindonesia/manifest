@@ -1,2 +1,2 @@
 # manifest
-manifest info for forum 
+manifest.json & images icon
